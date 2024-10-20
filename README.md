@@ -1,7 +1,8 @@
 # Overview of Basic Projects Before Enhancements
 
-1. Android Application – CS-360: Mobile Architecture and Programming
-Overview
+# 1. Android Application – CS-360: Mobile Architecture and Programming
+
+# Overview
 This project was developed as part of the CS-360: Mobile Architecture and Programming course. The primary objective was to build a functional Android application that demonstrated the core concepts of mobile development using Android Studio and Java. The basic version focused on:
 
 User Interface (UI): A simple UI layout to allow basic interactions.
@@ -16,8 +17,9 @@ No modern UI/UX design elements.
 No support for cloud-based data storage.
 Lacked features such as user authentication and data synchronization.
 
-2. 3D Pyramid – CS-330: Graphics and Visualization
-Overview
+# 2. 3D Pyramid – CS-330: Graphics and Visualization
+
+# Overview
 This artifact, 3DTriangleOpenGL, was created during the CS-330: Graphics and Visualization course. It was built using C++ and OpenGL to introduce students to 3D graphics programming. The focus of the project was on rendering a simple 3D pyramid and learning about:
 
 Shaders: Basic vertex and fragment shaders.
@@ -32,8 +34,9 @@ No modular structure: All logic was contained within a single code block.
 Limited error handling: Shader compilation errors weren’t efficiently captured.
 No support for multiple objects: Only one pyramid could be rendered at a time.
 
-3. Travlr Getaways Website – CS-340: Database Design
-Overview
+# 3. Travlr Getaways Website – CS-340: Database Design
+
+# Overview
 This project, Travlr Getaways, was initially developed for the CS-340: Database Design course. The purpose of the website was to provide a basic travel booking platform where users could search for and purchase trips. The project used MongoDB as the backend to manage trip data.
 
 Key Features
